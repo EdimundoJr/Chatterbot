@@ -1,0 +1,20 @@
+{
+    "conversas": [
+        {
+            "mensagens": [ "oi", "olá", "tudo bem?","ola"],
+            "resposta": "Olá, Sou o robô de curiosidades da copa. Como posso ajudar?"    
+        },
+        {
+            "mensagens": ["bom dia"],
+            "resposta": "Bom dia, Sou o robô de curiosidades da copa. Como posso ajudar?"
+        },
+        {
+            "mensagens": ["boa tarde"],
+            "resposta": "Boa tarde, Sou o robô de curiosidades da copa. Como posso ajudar?"
+        },
+        {
+            "mensagens": ["boa noite"],
+            "resposta": "Boa noite, Sou o robô de curiosidades da copa. Como posso ajudar?"
+        }
+    ]
+}
